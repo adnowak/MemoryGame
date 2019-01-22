@@ -1,0 +1,32 @@
+C:\Users\Adam\Desktop\C#-Visual Studio\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe.config
+C:\Users\Adam\Desktop\C#-Visual Studio\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\C#-Visual Studio\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Form1.resources
+C:\Users\Adam\Desktop\C#-Visual Studio\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Properties.Resources.resources
+C:\Users\Adam\Desktop\C#-Visual Studio\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe.config
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.pdb
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Form1.resources
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Properties.Resources.resources
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.exe
+C:\Users\Adam\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.pdb
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe.config
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.exe
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.pdb
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.pdb
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csprojResolveAssemblyReference.cache
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Form1.resources
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Properties.Resources.resources
+C:\Users\an121\Desktop\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csproj.GenerateResource.Cache
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe.config
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.exe
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\bin\Debug\Gra w pamięć.pdb
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csprojResolveAssemblyReference.cache
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Form1.resources
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra_w_pamięć.Properties.Resources.resources
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.csproj.GenerateResource.Cache
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.exe
+C:\Users\an121\Desktop\Rozwój\Programowanie\C#\Gra w pamięć\Gra w pamięć\obj\Debug\Gra w pamięć.pdb
